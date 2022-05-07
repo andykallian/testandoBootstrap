@@ -75,7 +75,7 @@ a, i{
 
 .main-image{
     height: 400px;
-    background-image: url('./bootstrap-5.1.3-dist/img/g_1.jpg');
+    background-image: url('../img/g_1.jpg');
     margin-bottom: 30px;
     position: relative;
 }
